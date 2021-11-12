@@ -16,4 +16,5 @@ Index|Category|Title
 5|Pretraining|[MAG-BERT and MAG-XLNet](https://aclanthology.org/2020.acl-main.214.pdf)
 6|Pretraining|[BERT](https://arxiv.org/pdf/1810.04805.pdf)
 7|Pretraining|[VideoBERT](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_VideoBERT_A_Joint_Model_for_Video_and_Language_Representation_Learning_ICCV_2019_paper.pdf)
-
+8|Survey|[Survey: Transformer based Video-Language Pre-Training](https://arxiv.org/pdf/2109.09920.pdf)
+9|Pretraining|[UniVL](https://arxiv.org/pdf/2002.06353.pdf)
