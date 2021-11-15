@@ -20,8 +20,11 @@ Index|Category|Model|Paper
 9|Pretraining|UniVL|[UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation](https://arxiv.org/pdf/2002.06353.pdf)
 10|Pretrainig|VATT|[VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text](https://arxiv.org/pdf/2104.11178.pdf)
 11|Pretraining|Audio DistilBERT|[Audio DistilBERT: A Distilled Audio BERT for Speech Representation Learning](https://ieeexplore.ieee.org/abstract/document/9533328)
+12|dataset|CMU-MOSI|[MOSI: Multimodal Corpus of Sentiment Intensity and Subjectivity Analysis in Online Opinion Videos](https://arxiv.org/ftp/arxiv/papers/1606/1606.06259.pdf)
+13|dataset|HowTo100M|[HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips](https://arxiv.org/ftp/arxiv/papers/1606/1606.06259.pdf)
 
-### Blogs
-Index|Category|Title
+### References
+Index|Category|Contents
 ---|---|---
 1|Contrastive Learning (CL)|[Understanding Contrastive Learning](https://towardsdatascience.com/understanding-contrastive-learning-d5b19fd96607), [Extending Contrastive Learning to the Supervised Setting](https://ai.googleblog.com/2021/06/extending-contrastive-learning-to.html)
+2|Video datasets|[CMU-MultimodalSDK](https://github.com/A2Zadeh/CMU-MultimodalSDK), [CMU-MOSI](http://multicomp.cs.cmu.edu/resources/cmu-mosi-dataset/), [HowTo100M](https://www.di.ens.fr/willow/research/howto100m/)
