@@ -21,7 +21,7 @@ Index|Category|Model|Paper
 10|Pretrainig|VATT|[VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text](https://arxiv.org/pdf/2104.11178.pdf)
 11|Pretraining|Audio DistilBERT|[Audio DistilBERT: A Distilled Audio BERT for Speech Representation Learning](https://ieeexplore.ieee.org/abstract/document/9533328)
 12|dataset|CMU-MOSI|[MOSI: Multimodal Corpus of Sentiment Intensity and Subjectivity Analysis in Online Opinion Videos](https://arxiv.org/ftp/arxiv/papers/1606/1606.06259.pdf)
-13|dataset|HowTo100M|[HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips](https://arxiv.org/ftp/arxiv/papers/1606/1606.06259.pdf)
+13|dataset|HowTo100M|[HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips](https://openaccess.thecvf.com/content_ICCV_2019/papers/Miech_HowTo100M_Learning_a_Text-Video_Embedding_by_Watching_Hundred_Million_Narrated_ICCV_2019_paper.pdf)
 
 ### References
 Index|Category|Contents
