@@ -28,3 +28,4 @@ Index|Category|Contents
 ---|---|---
 1|Contrastive Learning (CL)|[Understanding Contrastive Learning](https://towardsdatascience.com/understanding-contrastive-learning-d5b19fd96607), [Extending Contrastive Learning to the Supervised Setting](https://ai.googleblog.com/2021/06/extending-contrastive-learning-to.html)
 2|Video datasets|[CMU-MultimodalSDK](https://github.com/A2Zadeh/CMU-MultimodalSDK), [CMU-MOSI](http://multicomp.cs.cmu.edu/resources/cmu-mosi-dataset/), [HowTo100M](https://www.di.ens.fr/willow/research/howto100m/)
+3|Latent Space|[Understanding Latent Space in Machine Learning](https://towardsdatascience.com/understanding-latent-space-in-machine-learning-de5a7c687d8d)
